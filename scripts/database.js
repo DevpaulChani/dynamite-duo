@@ -21,8 +21,8 @@ export const database = {
             id: 2,
             name: "Hyperspeed",
             power: "Super speed"
-        }
-                {
+        },
+        {
             id: 3,
             name: "DrDoom",
             power: "Magic"
