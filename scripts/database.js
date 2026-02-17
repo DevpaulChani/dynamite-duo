@@ -36,5 +36,5 @@ export const database = {
 }
 
 export const getVillains = () => {
-    return structuredClone(database.villains);
+    return structuredClone(database.villans);
 }
